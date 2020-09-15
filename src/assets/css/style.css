@@ -1,0 +1,785 @@
+#body {
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    background-color: white;
+}
+
+.header.header {
+    height: 32px;
+}
+
+.union {
+    position: absolute;
+    width: 1367px;
+    height: 120px;
+    left: -1px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.column {
+    display: flex;
+    background-color: white;
+    width: 0.1%;
+    height: 40px;
+    box-shadow: 5px 7px 5px;
+}
+
+.header {
+    /* position: absolute; */
+    /* width: 130px; */
+    width: 100%;
+    height: 24px;
+    left: 386px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+.wraper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+a {
+    color: black;
+}
+
+.idea {
+    position: absolute;
+    width: 46px;
+    height: 24px;
+    left: 305px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+.blackLogo {
+    position: absolute;
+    width: 159px;
+    height: 146px;
+    left: 62px;
+    top: -50px;
+}
+
+.piesakiSapni {
+    position: absolute;
+    width: 130px;
+    height: 24px;
+    left: 386px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+.uznemeji {
+    position: absolute;
+    width: 120px;
+    height: 24px;
+    left: 543px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+.sapnuBanka {
+    position: absolute;
+    width: 123px;
+    height: 45px;
+    left: 698px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+.sapnuAtbalsts {
+    position: absolute;
+    width: 153px;
+    height: 45px;
+    left: 856px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+.iedvesmuStasti {
+    position: absolute;
+    width: 188px;
+    height: 29px;
+    left: 1036px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #060606;
+}
+
+.lang {
+    position: absolute;
+    width: 29px;
+    height: 29px;
+    left: 1275px;
+    top: 51px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #060606;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.banner-img {
+    position: absolute;
+    width: 1366px;
+    height: 722px;
+    left: 0px;
+    top: 47px;
+}
+
+.playButton {
+    background-color: transparent;
+    position: absolute;
+    width: 86px;
+    height: 83px;
+    left: 640px;
+    top: 366px;
+}
+
+.text-1 {
+    position: absolute;
+    width: 654px;
+    height: 114px;
+    left: 359px;
+    top: 919px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #2F4858;
+}
+
+.zanda {
+    position: absolute;
+    width: 328px;
+    height: 355px;
+    left: 0px;
+    top: 1197px;
+    /* background: url(Zanda_1.jpg); */
+}
+
+.picture_4 {
+    position: absolute;
+    width: 334px;
+    height: 364px;
+    left: 328px;
+    top: 1202px;
+    /* background: url(Sibilla_4.jpg); */
+}
+
+.meita {
+    position: absolute;
+    width: 298px;
+    height: 180px;
+    left: 662px;
+    top: 1202px;
+    /* background: url(Brinuma_meita-15.jpg); */
+}
+
+.Alina_1 {
+    position: absolute;
+    width: 298px;
+    height: 184px;
+    left: 662px;
+    top: 1382px;
+    /* background: url(Alina_1.jpg); */
+}
+
+.anda {
+    position: absolute;
+    width: 406px;
+    height: 383px;
+    left: 960px;
+    top: 1183px;
+    /* background: url(Anda_2.jpg); */
+}
+
+.text-2 {
+    position: absolute;
+    width: 394px;
+    height: 29px;
+    left: 220px;
+    top: 1731px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #2F4858;
+}
+
+.text-3 {
+    position: absolute;
+    width: 500px;
+    height: 29px;
+    left: 698px;
+    top: 1731px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #2F4858;
+}
+
+.button-1 {
+    position: absolute;
+    width: 233px;
+    height: 50px;
+    left: 300px;
+    top: 1810px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 40px;
+    background-color: #FFA800;
+    display: inline-block;
+    border: none;
+}
+
+.button-2 {
+    position: absolute;
+    border: none;
+    width: 184.63px;
+    height: 50px;
+    left: 856.19px;
+    top: 1810px;
+    color: #FFFFFF;
+    background: #C4C4C4;
+    border-radius: 40px;
+    background-color: #FFA800;
+    display: inline-block;
+}
+
+.text-4 {
+    position: absolute;
+    width: 819px;
+    height: 48px;
+    left: 274px;
+    top: 2010px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    text-align: center;
+    color: #2F4858;
+}
+
+.form-control-input-1 {
+    position: absolute;
+    width: 296px;
+    height: 43px;
+    left: 377px;
+    top: 2113px;
+    background: rgba(196, 196, 196, 0.4);
+    border-radius: 6px;
+    border: none;
+}
+
+.form-control-input-2 {
+    position: absolute;
+    width: 296px;
+    height: 43px;
+    left: 693px;
+    top: 2113px;
+    background: rgba(196, 196, 196, 0.4);
+    border-radius: 6px;
+    border: none;
+}
+
+.form-control-input-3 {
+    border: none;
+    position: absolute;
+    width: 612px;
+    height: 43px;
+    left: 377px;
+    top: 2171px;
+    background: rgba(196, 196, 196, 0.4);
+    border-radius: 6px;
+}
+
+.form-control-input-4 {
+    border: none;
+    padding-bottom: 189px;
+    position: absolute;
+    width: 612px;
+    height: 232px;
+    left: 377px;
+    top: 2229px;
+    background: rgba(196, 196, 196, 0.4);
+    border-radius: 6px;
+}
+
+.importantText {
+    position: absolute;
+    width: 612px;
+    height: 25px;
+    left: 377px;
+    top: 2476px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #2F4858;
+}
+
+.checkboc {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 380px;
+    top: 2529px;
+    background: #E7E7E7;
+    border-radius: 3px;
+}
+
+.text-5 {
+    position: absolute;
+    width: 572px;
+    height: 39px;
+    left: 417px;
+    top: 2526px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #2F4858;
+}
+
+.button-3 {
+    position: absolute;
+    width: 182px;
+    height: 62px;
+    left: 592px;
+    top: 2615px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 40px;
+    background-color: #FFA800;
+    border: none;
+    display: inline-block;
+}
+
+.union {
+    position: absolute;
+    width: 1366px;
+    height: 533.32px;
+    left: 0px;
+    top: 2827px;
+    background: #FFCB66;
+}
+
+
+/* .rectangle {
+                position: absolute;
+                width: 1366px;
+                height: 92.51px;
+                left: 0px;
+                top: 0px;
+                background: #FFFFFF;
+            } */
+
+.suporters {
+    position: absolute;
+    width: 394px;
+    height: 29px;
+    left: 486px;
+    top: 2927px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #2F4858;
+}
+
+.logo1 {
+    position: absolute;
+    width: 241.95px;
+    height: 80px;
+    left: 168px;
+    top: 3045px;
+    /* background: url(getlogo.png); */
+}
+
+.logo2 {
+    position: absolute;
+    width: 209.32px;
+    height: 80px;
+    left: 495px;
+    top: 3045px;
+    /* background: url(Group.png); */
+}
+
+.logo3 {
+    position: absolute;
+    width: 238.96px;
+    height: 80px;
+    left: 789px;
+    top: 3045px;
+    /* background: url(Citybee-logo.png); */
+}
+
+.logo4 {
+    position: absolute;
+    width: 84.77px;
+    height: 120px;
+    left: 1113px;
+    top: 3026px;
+    /* background: url(logo2.png); */
+}
+
+.background {
+    height: 376px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #2F4858;
+}
+
+.footer {
+    position: absolute;
+    width: 1366px;
+    height: 376px;
+    left: 0px;
+    top: 3275px;
+    position: absolute;
+    width: 1366px;
+    height: 376px;
+    left: 0px;
+    top: 3275px;
+}
+
+.sparkleLogo {
+    background-color: transparent;
+    position: absolute;
+    left: 4.54%;
+    right: 82.14%;
+    top: 19.41%;
+    bottom: 32.18%;
+    /* background: url(GoldenV2Logo.png); */
+}
+
+.copyRight {
+    position: absolute;
+    left: 4.54%;
+    right: 82.14%;
+    top: 86.44%;
+    bottom: 3.46%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.idea2 {
+    position: absolute;
+    left: 28.11%;
+    right: 66.91%;
+    top: 18.88%;
+    bottom: 74.73%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.piesakiSapni2 {
+    position: absolute;
+    left: 27.89%;
+    right: 58.78%;
+    top: 30.85%;
+    bottom: 62.77%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.uznemeji2 {
+    position: absolute;
+    left: 27.89%;
+    right: 59%;
+    top: 42.82%;
+    bottom: 50.8%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.sapnuBanka2 {
+    position: absolute;
+    left: 27.89%;
+    right: 63.1%;
+    top: 53.72%;
+    bottom: 34.31%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.SapnuAtbalsta2 {
+    position: absolute;
+    left: 27.89%;
+    right: 59%;
+    top: 65.43%;
+    bottom: 22.61%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.iedvesmasStasti2 {
+    position: absolute;
+    left: 27.89%;
+    right: 59%;
+    top: 77.39%;
+    bottom: 14.89%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.biedriba {
+    position: absolute;
+    left: 47%;
+    right: 31.99%;
+    top: 18.62%;
+    bottom: 75%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.registresana {
+    position: absolute;
+    left: 47%;
+    right: 32.58%;
+    top: 30.85%;
+    bottom: 62.77%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.banka {
+    position: absolute;
+    left: 47%;
+    right: 32.58%;
+    top: 39.89%;
+    bottom: 53.99%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.bankasNr {
+    position: absolute;
+    left: 47%;
+    right: 32.58%;
+    top: 48.4%;
+    bottom: 46.54%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.name {
+    position: absolute;
+    left: 81.99%;
+    right: 4.69%;
+    top: 18.88%;
+    bottom: 69.15%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.contactEmail {
+    position: absolute;
+    left: 66.47%;
+    right: 4.69%;
+    top: 24.73%;
+    bottom: 63.3%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.telephone {
+    position: absolute;
+    left: 81.99%;
+    right: 4.69%;
+    top: 39.89%;
+    bottom: 54.52%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: flex-end;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.adress {
+    position: absolute;
+    left: 72.25%;
+    right: 4.69%;
+    top: 48.14%;
+    bottom: 46.01%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.facebook {
+    position: absolute;
+    left: 89.39%;
+    right: 9.3%;
+    top: 67.82%;
+    bottom: 22.61%;
+    background: #FFFFFF;
+    background-color: transparent;
+}
+
+.instagram {
+    position: absolute;
+    left: 92.83%;
+    right: 4.54%;
+    top: 67.82%;
+    bottom: 22.61%;
+    background: #FFFFFF;
+    background-color: transparent;
+}
+
+.politika {
+    position: absolute;
+    left: 81.55%;
+    right: 4.54%;
+    top: 90.96%;
+    bottom: 5.32%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    color: #FFFFFF;
+}
